@@ -10,6 +10,7 @@ Cursos y ejemplos de desarrollo de backend
 
 ### Java
 - [Java Course Arquitect](https://github.com/klintfox/course-java-arquitect)
+- [Oracle Java Foundations](https://mylearn.oracle.com/ou/learning-path/java-explorer/79726)
 - [Prepare for Java SE 8 Programmer II (OCP) Certification](https://mylearn.oracle.com/ou/course/prepare-for-java-se-8-programmer-ii-ocp-certification/50486)
 
 ### Spring Framework
