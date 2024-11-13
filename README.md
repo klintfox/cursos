@@ -169,65 +169,95 @@ Aquí encontrarás mis proyectos de desarrollo frontend utilizando tecnologías 
 ### **Relacionales** 
 
 ### MySQL: 
+
 Una de las bases de datos relacionales más populares, conocida por ser de código abierto y por su rendimiento.
 -
+
 ### PostgreSQL: 
+
 Una base de datos relacional avanzada y de código abierto que soporta características avanzadas como tipos de datos personalizados y transacciones.
 -
+
 ### Microsoft SQL Server (MSSQL): 
+
 Una base de datos relacional desarrollada por Microsoft, comúnmente utilizada en entornos empresariales.
 -
+
 ### Oracle Database: 
+
 Un sistema de base de datos relacional comercial, ampliamente utilizado en grandes empresas y aplicaciones críticas.
 -
+
 ### SQLite: 
+
 Una base de datos ligera, basada en archivos, comúnmente utilizada en aplicaciones móviles y embebidas.
 -
+
 ### MariaDB: 
+
 Un fork de MySQL, desarrollado por los creadores originales de MySQL, conocido por su alta compatibilidad y rendimiento.
 - 
 
 ### **No Relaciones**
 
 ### MongoDb
+
 Una base de datos orientada a documentos, popular por su flexibilidad para manejar datos JSON (BSON).
 -
+
 ### ElasticSearch
+
 Aunque originalmente es un motor de búsqueda, también se utiliza como base de datos distribuida orientada a documentos para grandes volúmenes de datos.
 -
+
 ### Cassandra
+
 Una base de datos distribuida orientada a columnas, diseñada para manejar grandes cantidades de datos a través de múltiples nodos sin un único punto de fallo.
 -
+
 ### Amazon DynamoDB
+
 Un servicio de base de datos NoSQL completamente administrado, basado en clave-valor y orientado a documentos, ofrecido por AWS.
 -
 
 ### **En la Nube**
 
 ### Amazon RDS (Relational Database Service): 
+
 Servicio administrado por Amazon Web Services (AWS) que soporta bases de datos como MySQL, PostgreSQL, MariaDB, Oracle y SQL Server.
 -
+
 ### Google Cloud SQL: 
+
 Servicio administrado de Google Cloud para bases de datos relacionales (MySQL, PostgreSQL, SQL Server).
 -
+
 ### Azure SQL Database: 
+
 Servicio administrado de Microsoft Azure para bases de datos SQL Server.
 -
+
 ### Firebase Realtime Database: 
+
 Base de datos en tiempo real de Google Firebase, orientada a aplicaciones móviles y web.
 -
+
 ### Cloud Spanner: 
+
 Servicio de base de datos relacional escalable y distribuido de Google Cloud.
 -
+
 ### Cosmos DB: 
+
 Base de datos NoSQL globalmente distribuida de Microsoft Azure, que soporta múltiples modelos de datos (documentos, grafos, clave-valor, etc.).
 -
 
 ### *En Memoria*
 
 ### Redis
-Una base de datos en memoria clave-valor, utilizada como almacenamiento en caché y en sistemas que requieren alta velocidad y baja latencia.
 
+Una base de datos en memoria clave-valor, utilizada como almacenamiento en caché y en sistemas que requieren alta velocidad y baja latencia.
+- 
 
 ***
 ## **Mensajería**
