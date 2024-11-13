@@ -1,5 +1,5 @@
-# Curso realizados
-Cursos y ejemplos de código sobre diferentes categorias de software
+# Course & Lessons
+Cursos y lecciones sobre diversas tecnologías y herramientas de desarrollo de software
 
 ## **Backend Development**
 Cursos y ejemplos de desarrollo de backend
