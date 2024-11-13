@@ -5,8 +5,8 @@ Cursos y lecciones sobre diversas tecnologías y herramientas de desarrollo de s
 Cursos y ejemplos de desarrollo de backend
 
 ### Python
-- [Python Essentials 1 - Cisco])(https://www.netacad.com/es/courses/python-essentials-1?courseLang=es-XL)
-- [Python Essentials 2 - Cisco]  (https://www.netacad.com/es/courses/python-essentials-2?courseLang=es-XL)
+- [Python Essentials 1 - Cisco](https://www.netacad.com/es/courses/python-essentials-1?courseLang=es-XL)
+- [Python Essentials 2 - Cisco](https://www.netacad.com/es/courses/python-essentials-2?courseLang=es-XL)
 
 ### Java
 - [Java Course Arquitect](https://github.com/klintfox/course-java-arquitect)
