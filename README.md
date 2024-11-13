@@ -5,7 +5,8 @@ Cursos y lecciones sobre diversas tecnologías y herramientas de desarrollo de s
 Cursos y ejemplos de desarrollo de backend
 
 ### Python
-- [Python]
+- [Python Essentials 1 - Cisco])(https://www.netacad.com/es/courses/python-essentials-1?courseLang=es-XL)
+- [Python Essentials 2 - Cisco]  (https://www.netacad.com/es/courses/python-essentials-2?courseLang=es-XL)
 
 ### Java
 - [Java Course Arquitect](https://github.com/klintfox/course-java-arquitect)
@@ -171,93 +172,88 @@ Aquí encontrarás mis proyectos de desarrollo frontend utilizando tecnologías 
 ### MySQL
 
 Una de las bases de datos relacionales más populares, conocida por ser de código abierto y por su rendimiento.
-- []
+- [MySQL]
 
 ### PostgreSQL
 
 Una base de datos relacional avanzada y de código abierto que soporta características avanzadas como tipos de datos personalizados y transacciones.
-- []
+- [PostgreSQL]
 
 ### Microsoft SQL Server (MSSQL)
 
 Una base de datos relacional desarrollada por Microsoft, comúnmente utilizada en entornos empresariales.
-- []
+- [MSSQL]
 
 ### Oracle Database
 
 Un sistema de base de datos relacional comercial, ampliamente utilizado en grandes empresas y aplicaciones críticas.
-- []
+- [Oracle]
 
 ### SQLite
 
 Una base de datos ligera, basada en archivos, comúnmente utilizada en aplicaciones móviles y embebidas.
-- []
+- [SQLite]
 
 ### MariaDB
 
 Un fork de MySQL, desarrollado por los creadores originales de MySQL, conocido por su alta compatibilidad y rendimiento.
-- [] 
+- [MariaDB] 
 
 ### No Relaciones
 
 ### MongoDb
 
 Una base de datos orientada a documentos, popular por su flexibilidad para manejar datos JSON (BSON).
-- []
+- [MongoDb]
 
 ### ElasticSearch
 
 Aunque originalmente es un motor de búsqueda, también se utiliza como base de datos distribuida orientada a documentos para grandes volúmenes de datos.
-- []
+- [ElasticSearch]
 
 ### Cassandra
 
 Una base de datos distribuida orientada a columnas, diseñada para manejar grandes cantidades de datos a través de múltiples nodos sin un único punto de fallo.
-- []
+- [Cassandra]
 
 ### Amazon DynamoDB
 
 Un servicio de base de datos NoSQL completamente administrado, basado en clave-valor y orientado a documentos, ofrecido por AWS.
-- []
+- [Amazon DynamoDB]
 
 ### En la Nube
 
 ### Amazon RDS (Relational Database Service): 
 
 Servicio administrado por Amazon Web Services (AWS) que soporta bases de datos como MySQL, PostgreSQL, MariaDB, Oracle y SQL Server.
-- []
+- [Amazon RDS]
 
 ### Google Cloud SQL: 
 
 Servicio administrado de Google Cloud para bases de datos relacionales (MySQL, PostgreSQL, SQL Server).
-- []
+- [Google Cloud SQL]
 
 ### Azure SQL Database: 
 
 Servicio administrado de Microsoft Azure para bases de datos SQL Server.
-- []
+- [Azure SQL Database]
 
 ### Firebase Realtime Database: 
 
 Base de datos en tiempo real de Google Firebase, orientada a aplicaciones móviles y web.
-- []
-
-### Cloud Spanner: 
-
-Servicio de base de datos relacional escalable y distribuido de Google Cloud.
-- []
+- [Firebase]
 
 ### Cosmos DB: 
 
 Base de datos NoSQL globalmente distribuida de Microsoft Azure, que soporta múltiples modelos de datos (documentos, grafos, clave-valor, etc.).
-- []
+- [Cosmos DB]
 
 ### *En Memoria*
 
 ### Redis
 
 Una base de datos en memoria clave-valor, utilizada como almacenamiento en caché y en sistemas que requieren alta velocidad y baja latencia.
-- [] 
+- [Redis]
 
 ***
 ## **Mensajería**
@@ -315,13 +311,13 @@ Gestiona y automatiza la infraestructura a través de código, permitiendo que l
 - [Kubernetes]
 
 ### Jenkins
-- 
+- [Jenkins]
 
 ### Ansible
--
+- [Ansible]
 
 ### Terraform
--
+- [Terraform]
 
 *** 
 ## Cloud
