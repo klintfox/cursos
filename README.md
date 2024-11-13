@@ -1,5 +1,5 @@
 # Course & Lessons
-Cursos y lecciones sobre diversas tecnologías y herramientas de desarrollo de software
+**Cursos y lecciones sobre diversas tecnologías y herramientas de desarrollo de software.**
 
 ## **Backend Development**
 Cursos y ejemplos de desarrollo de backend
