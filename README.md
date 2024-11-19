@@ -125,10 +125,14 @@ Spring Test (spring-test): Proporciona soporte para las pruebas unitarias y de i
 ***
 ## **Mobile Development**
 
-### Android
+### Android - Kotli
 Proyectos de aplicaciones móviles construidas principalmente con Android y Kotlin.
 
 - [Android App with Kotlin]
+
+### Android - Flutter
+
+- [Android - Flutter] (https://github.com/klintfox/flutter-flet-course)
 
 ***
 ## **Unit Tests**
@@ -165,6 +169,8 @@ Aquí encontrarás mis proyectos de desarrollo frontend utilizando tecnologías 
 ### Streamlit
 - [Streamlit Course](https://github.com/klintfox/streamlit_course)
 
+### Flet
+- [Flet Course](https://github.com/klintfox/flet_course)
 
 ***
 ## **Base Datos**
